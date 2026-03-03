@@ -14,5 +14,5 @@ Pure cognitive architecture (BDI) alone produced 0 behavioural change across all
 ## How to Run 
 python run_experiment.py --ticks 400 --runs 3
 
-##Requirement
+## Requirement
 Python 3.8+
